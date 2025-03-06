@@ -1,4 +1,4 @@
 var nome = "Henrique";
-var canal = "gameplay";
+var canal = "gameplay"; ;
 console.log(nome);
 console.log(canal);
